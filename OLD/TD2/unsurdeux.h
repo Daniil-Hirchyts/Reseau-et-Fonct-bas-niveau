@@ -1,0 +1,1 @@
+int* unsurdeux(int* tab,int n);

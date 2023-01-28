@@ -1,0 +1,1 @@
+int minmax(int *t, int n, int *pmin, int *pmax);
